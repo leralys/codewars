@@ -128,8 +128,3 @@ const countSheep1 = num => {
     return countSheep(num - 1) + str;
   }
 }
-
-console.log(countSheep1(3))
-
-// --- 1 ---
-// --- 1 ---
